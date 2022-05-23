@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorMiguel37.
 - 👀 I’m interested in new languages.
-- 🌱 I’m currently learning Hacking.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me VictorMiguelAL37@gmail.com.
 
